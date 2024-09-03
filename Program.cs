@@ -17,6 +17,7 @@
             Console.WriteLine(Sub(5, 3));
             Console.ReadLine();
             Console.WriteLine("Hello World");
+            Console.ReadLine();
         }
     }
 }
